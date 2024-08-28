@@ -340,7 +340,7 @@ nav h3:nth-last-child(2){
     width: 100%;
     object-position: 0 25%;
     object-fit: cover;
-    background-color: rgb(179, 207, 19);
+/*     background-color: rgb(179, 207, 19); */
 }
 #page2-part2{
     height: 100%;
