@@ -103,7 +103,7 @@ nav h1::after{
     font-size: 1.1vw;
     font-family: Gilroy;
     font-weight: 500;
-    right: 12%;
+    right: 8.5%;
     top: 23%;
 }
 nav h1::before{
@@ -115,7 +115,7 @@ nav h1::before{
     letter-spacing: 0.1px;
     font-weight: 500;
     bottom: 13%;
-    right: 20%;
+    right: 17%;
 }
 nav h3{
     font-family: Roboto;
